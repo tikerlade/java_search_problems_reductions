@@ -1,0 +1,16 @@
+{
+  "modules": [
+    {
+      "name": "java_search_problems_reductions",
+      "languageLevel": 11
+    },
+    {
+      "name": "java_search_problems_reductions.test",
+      "languageLevel": 11
+    },
+    {
+      "name": "java_search_problems_reductions.main",
+      "languageLevel": 11
+    }
+  ]
+}

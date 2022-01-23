@@ -1,0 +1,16 @@
+{
+  "total": 0,
+  "tools inspection": {
+    "Code Inspection": 0
+  },
+  "attributes": {
+    "vcs": {
+      "sarifIdea": {
+        "repositoryUri": "https://github.com/tikerlade/java_search_problems_reductions",
+        "revisionId": "b932c39d745e74cfd0c30585699c2ed6daa14961",
+        "branch": "configure"
+      }
+    },
+    "deviceId": "200820300000000-87ca-ab69-b1eb-3c2fbc936f28"
+  }
+}
